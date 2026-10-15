@@ -59,7 +59,7 @@ offers:
       access_operator_entity_id: ent_01m4zy6dqf3dytq9xhyg47m1km
     access:
       availability: public
-      method: email
+      method: form
       url: https://threaddesk.io/startups
     source_ids:
       - src_d90fb7c7f2c0206eb88f5e763a80ab49335953933e8b07bfbdd00ea3a137501c
